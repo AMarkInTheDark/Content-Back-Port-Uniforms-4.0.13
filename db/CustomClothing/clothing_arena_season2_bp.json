@@ -1,0 +1,102 @@
+[
+  {
+    "type": "top",
+    "side": [
+      "Usec"
+    ],
+    "suiteId": "0c3da077a2c247319a8f620f",
+    "outfitId": "bb620a2cfcdb40eeab987582",
+    "topId": "c5ae035cf1ed4fc485496d63",
+    "handsId": "fad49028cec1499d8dc5364c",
+    "locales": {
+      "en": {
+        "name": "USEC Alone in Woods upper",
+        "description": "Tactical jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_usec_vintage.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_usec_vintage/hands_arena_usec_vintage.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "side": [
+      "Usec"
+    ],
+    "suiteId": "c692d0f3154749d093d1e454",
+    "outfitId": "3f853463fa7e41bf8a6ef3d6",
+    "bottomId": "2acb256963914647a3d4e981",
+    "locales": {
+      "en": {
+        "name": "USEC Alone in Woods lower",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_arena_usec_vintage.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Bear"
+    ],
+    "suiteId": "86742808b2b647f48d4f56c6",
+    "outfitId": "6bf5b0b3d5f94c1ea56a9703",
+    "topId": "bf0bf91ac2674c1691b6208d",
+    "handsId": "83d65a9e9df7406ca48e9ee6",
+    "locales": {
+      "en": {
+        "name": "BEAR Lonsdale upper",
+        "description": "Tactical jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_bear_longdale.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_bear_longdale/hands_arena_bear_longdale.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "side": [
+      "Bear"
+    ],
+    "suiteId": "b6ab9a0cd7594841903fb647",
+    "outfitId": "b2784fa6a18740c3b266a2da",
+    "bottomId": "fab803fcd57a4505a8b62dc9",
+    "locales": {
+      "en": {
+        "name": "BEAR Lonsdale lower",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_arena_bear_longdale.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  }
+]
