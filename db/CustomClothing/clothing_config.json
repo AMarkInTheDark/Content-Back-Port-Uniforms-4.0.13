@@ -5,8 +5,8 @@
       "Usec",
       "Bear"
     ],
-    "suiteId": "35ec25485dfd4464acb26c5a",
-    "outfitId": "7a7d169ee7184815bb88dcfe",
+    "suiteId": "ed1541316dc44f14b252267f",
+    "outfitId": "8619d4205407406d90974187",
     "topId": "67ac86f8a6749cd1690ae1dd",
     "handsId": "67ac8728e4d14ccd6005de88",
     "locales": {
@@ -24,9 +24,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": [
-      "694c5527d1d40bd7db9a571a"
-    ]
+    "achievementRequirements": []
   },
   {
     "type": "top",
@@ -34,8 +32,8 @@
       "Usec",
       "Bear"
     ],
-    "suiteId": "70d5f45b05744037921f6d0f",
-    "outfitId": "0d3822550eb541a99606ae0b",
+    "suiteId": "2aaa84a1da9a43e482eaec8a",
+    "outfitId": "8d3897dd0c2e49158b0db861",
     "topId": "67ac870e5d717b44c00a0c94",
     "handsId": "67ac873d5d717b44c00a0c96",
     "locales": {
@@ -53,9 +51,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": [
-      "694c5527d1d40bd7db9a571a"
-    ]
+    "achievementRequirements": []
   },
   {
     "type": "top",
@@ -63,8 +59,8 @@
       "Usec",
       "Bear"
     ],
-    "suiteId": "4cec197eeba843a7a81d5db9",
-    "outfitId": "c8282157760c4aea8282a95f",
+    "suiteId": "d44b10146570465593bf6170",
+    "outfitId": "963eb10feaf74d0399222939",
     "topId": "67ac7eeba6749cd1690ae1d7",
     "handsId": "67ac81ab5f7251f49d0e9b0d",
     "locales": {
@@ -82,9 +78,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": [
-      "694c5527d1d40bd7db9a571a"
-    ]
+    "achievementRequirements": []
   },
   {
     "type": "top",
@@ -92,8 +86,8 @@
       "Usec",
       "Bear"
     ],
-    "suiteId": "df21384d917249b2bb759a6b",
-    "outfitId": "9d842c927af04baaad1c9f7a",
+    "suiteId": "8e1a6043a3d94b8eb795e05f",
+    "outfitId": "7d1a3e4f07a64c368e7e8ed2",
     "topId": "67ac7f135f7251f49d0e9b0b",
     "handsId": "67ac81fd5d717b44c00a0c8e",
     "locales": {
@@ -111,9 +105,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": [
-      "694c5527d1d40bd7db9a571a"
-    ]
+    "achievementRequirements": []
   },
   {
     "type": "top",
@@ -121,8 +113,8 @@
       "Usec",
       "Bear"
     ],
-    "suiteId": "3b3679b52fa648c1822dc424",
-    "outfitId": "9ab9d61336f44cf38b0d6582",
+    "suiteId": "591a11c1df6b4be5bc123e00",
+    "outfitId": "b810449be98e49d1b70d4c2c",
     "topId": "67ac7f295d717b44c00a0c8c",
     "handsId": "67ac8233a6749cd1690ae1db",
     "locales": {
@@ -140,9 +132,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": [
-      "694c5527d1d40bd7db9a571a"
-    ]
+    "achievementRequirements": []
   },
   {
     "type": "top",
@@ -150,8 +140,8 @@
       "Usec",
       "Bear"
     ],
-    "suiteId": "3e007abdc5254f9aaa89b21d",
-    "outfitId": "1ed08fdb4fa64858b98b1d20",
+    "suiteId": "8e7d1652f2894263a3baa8a0",
+    "outfitId": "48c881226aed477e8080d781",
     "topId": "67ac7f3ca6749cd1690ae1d9",
     "handsId": "67ac82465f7251f49d0e9b0f",
     "locales": {
@@ -169,9 +159,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": [
-      "694c5527d1d40bd7db9a571a"
-    ]
+    "achievementRequirements": []
   },
   {
     "type": "top",
@@ -179,8 +167,8 @@
       "Usec",
       "Bear"
     ],
-    "suiteId": "c2d70b6fa60041c68df1b838",
-    "outfitId": "5fa1d215be1249ea9c28469c",
+    "suiteId": "f856aa07bc1c451695c0c0f8",
+    "outfitId": "92f958a5d1a247e495a382d3",
     "topId": "67ac7f52e4d14ccd6005de86",
     "handsId": "67ac825b5d717b44c00a0c90",
     "locales": {
@@ -198,8 +186,6 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": [
-      "694c5527d1d40bd7db9a571a"
-    ]
+    "achievementRequirements": []
   }
 ]
