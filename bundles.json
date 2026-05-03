@@ -1,0 +1,8 @@
+{
+  "manifest": [
+    {
+      "key": "assets/content/hands/hands_bp_6.skin.bundle",
+      "dependencyKeys": ["cubemaps", "shaders"]
+    }
+  ]
+}
