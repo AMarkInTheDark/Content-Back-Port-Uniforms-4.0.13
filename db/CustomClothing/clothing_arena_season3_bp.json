@@ -98,5 +98,57 @@
     "price": 150,
     "questRequirements": [],
     "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Usec",
+      "Bear"
+    ],
+    "suiteId": "d0714a99dc0149bf9434c32f",
+    "outfitId": "a17febe67fa641fc9c0fb3b6",
+    "topId": "482210a14d12437281775424",
+    "handsId": "a20336bce2444e0298370cec",
+    "locales": {
+      "en": {
+        "name": "Warrior Champion upper",
+        "description": "Jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_warrior_champion.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_warrior_champion/hands_warrior_champion.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "side": [
+      "Usec",
+      "Bear"
+    ],
+    "suiteId": "9870f15fe4864ea2aef858b6",
+    "outfitId": "d44728e5f2b840149dd7d364",
+    "bottomId": "74158ea01ae24a40882ad84a",
+    "locales": {
+      "en": {
+        "name": "Warrior Champion lower",
+        "description": "Combat pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_arena_warrior_champion.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
   }
 ]
