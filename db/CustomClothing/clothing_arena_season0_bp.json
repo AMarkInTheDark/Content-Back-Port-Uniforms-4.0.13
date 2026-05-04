@@ -259,5 +259,31 @@
     "price": 150,
     "questRequirements": [],
     "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Usec"
+    ],
+    "suiteId": "152a880cb62e475b8783bb25",
+    "outfitId": "c4a1363923cd416eb5d04abb",
+    "topId": "67ab150c508ee9b6440e9c60",
+    "handsId": "67ac83375d717b44c00a0c92",
+    "locales": {
+      "en": {
+        "name": "USEC Mission (MultiCam)",
+        "description": "Tactical jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_usec_carinthia_softshell_arena_bp_01.bundle",
+    "handsBundlePath": "assets/content/hands/hands_usec_carinthia_softshell/hands_usec_carinthia_softshell_arena_bp_01.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
   }
 ]
