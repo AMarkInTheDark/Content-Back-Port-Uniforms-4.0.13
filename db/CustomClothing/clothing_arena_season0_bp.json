@@ -1,0 +1,217 @@
+[
+  {
+    "type": "top",
+    "side": [
+      "Usec",
+      "Bear"
+    ],
+    "suiteId": "35ec25485dfd4464acb26c5a",
+    "outfitId": "7a7d169ee7184815bb88dcfe",
+    "topId": "67ac86f8a6749cd1690ae1dd",
+    "handsId": "67ac8728e4d14ccd6005de88",
+    "locales": {
+      "en": {
+        "name": "Mutkevich t-shirt (Black)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bp_1_black.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_bp_1/hands_bp_1_black.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Usec",
+      "Bear"
+    ],
+    "suiteId": "70d5f45b05744037921f6d0f",
+    "outfitId": "0d3822550eb541a99606ae0b",
+    "topId": "67ac870e5d717b44c00a0c94",
+    "handsId": "67ac873d5d717b44c00a0c96",
+    "locales": {
+      "en": {
+        "name": "Mutkevich t-shirt (White)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bp_1_white.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_bp_1/hands_bp_1_white.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Usec",
+      "Bear"
+    ],
+    "suiteId": "4cec197eeba843a7a81d5db9",
+    "outfitId": "c8282157760c4aea8282a95f",
+    "topId": "67ac7eeba6749cd1690ae1d7",
+    "handsId": "67ac81ab5f7251f49d0e9b0d",
+    "locales": {
+      "en": {
+        "name": "SBEU Mosquito t-shirt (Coyote)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bp_2.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_bp_2/hands_bp_2.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Usec",
+      "Bear"
+    ],
+    "suiteId": "df21384d917249b2bb759a6b",
+    "outfitId": "9d842c927af04baaad1c9f7a",
+    "topId": "67ac7f135f7251f49d0e9b0b",
+    "handsId": "67ac81fd5d717b44c00a0c8e",
+    "locales": {
+      "en": {
+        "name": "SBEU Mosquito t-shirt (Olive)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bp_3.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_bp_3/hands_bp_3.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Usec",
+      "Bear"
+    ],
+    "suiteId": "3b3679b52fa648c1822dc424",
+    "outfitId": "9ab9d61336f44cf38b0d6582",
+    "topId": "67ac7f295d717b44c00a0c8c",
+    "handsId": "67ac8233a6749cd1690ae1db",
+    "locales": {
+      "en": {
+        "name": "Fucker & Motherfucker t-shirt",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bp_4.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_bp_4/hands_bp_4.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Usec",
+      "Bear"
+    ],
+    "suiteId": "3e007abdc5254f9aaa89b21d",
+    "outfitId": "1ed08fdb4fa64858b98b1d20",
+    "topId": "67ac7f3ca6749cd1690ae1d9",
+    "handsId": "67ac82465f7251f49d0e9b0f",
+    "locales": {
+      "en": {
+        "name": "Saiga t-shirt",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bp_5.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_bp_5/hands_bp_5.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Usec",
+      "Bear"
+    ],
+    "suiteId": "c2d70b6fa60041c68df1b838",
+    "outfitId": "5fa1d215be1249ea9c28469c",
+    "topId": "67ac7f52e4d14ccd6005de86",
+    "handsId": "67ac825b5d717b44c00a0c90",
+    "locales": {
+      "en": {
+        "name": "Knives Only t-shirt",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bp_6.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_bp_6/hands_bp_6.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Usec"
+    ],
+    "suiteId": "a4f769226f644e729e4acb55",
+    "outfitId": "f17785106b6847599baed9ed",
+    "topId": "660437e57502eca33a08caca",
+    "handsId": "660438077502eca33a08cacc",
+    "locales": {
+      "en": {
+        "name": "USEC Mission (MultiCam)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/tshirt_usec_velocity_multicam.bundle",
+    "handsBundlePath": "assets/content/hands/hands_usec_velocity/hands_usec_velocity_multicam.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  }
+]
