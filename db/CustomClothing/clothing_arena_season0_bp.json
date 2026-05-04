@@ -285,5 +285,59 @@
     "price": 150,
     "questRequirements": [],
     "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Usec",
+      "Bear"
+    ],
+    "suiteId": "64645332248b4cdca98b8b7a",
+    "outfitId": "35de74ff581b461c9216b14e",
+    "topId": "67af2d83af9667d8ea0d39ac",
+    "handsId": "67af2d9c551084dbef0f3178",
+    "locales": {
+      "en": {
+        "name": "Gladiator t-shirt",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_gladiator.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_gladiator/hands_arena_gladiator.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Usec",
+      "Bear"
+    ],
+    "suiteId": "452e563967ec4b1f83838d53",
+    "outfitId": "1aeb6551645c4606adf63a8f",
+    "topId": "685eb62fb5ac4e22ba0f20d1",
+    "handsId": "685eb657608d2e0f0704818f",
+    "locales": {
+      "en": {
+        "name": "Grenadier t-shirt",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_acs4.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_acs4/hands_acs4.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
   }
 ]
