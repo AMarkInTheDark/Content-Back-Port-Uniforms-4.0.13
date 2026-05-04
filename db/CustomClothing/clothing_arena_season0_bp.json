@@ -411,5 +411,31 @@
     "price": 150,
     "questRequirements": [],
     "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Bear"
+    ],
+    "suiteId": "9027b53b1b2543b4a9951402",
+    "outfitId": "98eb5e551a6d4c03aab0b3cf",
+    "topId": "67ab0ab4755a9402da001196",
+    "handsId": "67ac82b05f7251f49d0e9b11",
+    "locales": {
+      "en": {
+        "name": "BEAR Phoenix (Green)",
+        "description": "Flannel shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bear_phoenix_arena_bp_01.bundle",
+    "handsBundlePath": "assets/content/hands/hands_bear_phoenix/hands_bear_phoenix_arena_bp_01.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
   }
 ]
