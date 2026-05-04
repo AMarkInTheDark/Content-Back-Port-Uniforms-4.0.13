@@ -187,31 +187,5 @@
     "price": 150,
     "questRequirements": [],
     "achievementRequirements": []
-  },
-  {
-    "type": "top",
-    "side": [
-      "Usec"
-    ],
-    "suiteId": "a4f769226f644e729e4acb55",
-    "outfitId": "f17785106b6847599baed9ed",
-    "topId": "660437e57502eca33a08caca",
-    "handsId": "660438077502eca33a08cacc",
-    "locales": {
-      "en": {
-        "name": "USEC Mission (MultiCam)",
-        "description": "Sportswear"
-      }
-    },
-    "topBundlePath": "assets/content/characters/character/prefabs/tshirt_usec_velocity_multicam.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_velocity/hands_usec_velocity_multicam.bundle",
-    "traderId": "5ac3b934156ae10c4430e83c",
-    "loyaltyLevel": 1,
-    "profileLevel": 1,
-    "standing": 0,
-    "currencyId": "MONEY_ROUBLES",
-    "price": 150,
-    "questRequirements": [],
-    "achievementRequirements": []
   }
 ]
