@@ -17,11 +17,23 @@
       "dependencyKeys": ["cubemaps", "shaders"]
     },
     {
+      "key": "assets/content/characters/character/prefabs/top_arena_warrior_champion.bundle",
+      "dependencyKeys": ["cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/pants_arena_warrior_champion.bundle",
+      "dependencyKeys": ["cubemaps", "shaders"]
+    },
+    {
       "key": "assets/content/hands/hands_arena_usec_vintage/hands_arena_usec_vintage.skin.bundle",
       "dependencyKeys": ["cubemaps", "shaders"]
     },
     {
       "key": "assets/content/hands/hands_arena_bear_longdale/hands_arena_bear_longdale.skin.bundle",
+      "dependencyKeys": ["cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/hands/hands_arena_warrior_champion/hands_warrior_champion.skin.bundle",
       "dependencyKeys": ["cubemaps", "shaders"]
     }
   ]
