@@ -339,5 +339,77 @@
     "price": 150,
     "questRequirements": [],
     "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "side": [
+      "Bear"
+    ],
+    "suiteId": "4f023e1f2b8e47d88665fa1b",
+    "outfitId": "a4e546cb3f504f4d861520c5",
+    "bottomId": "67ab0b06755a9402da001199",
+    "locales": {
+      "en": {
+        "name": "BEAR Paladin (Coyote)",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_phoenix_arena_bp_01.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "side": [
+      "Bear"
+    ],
+    "suiteId": "56756762b5f34984b17e17c9",
+    "outfitId": "e8914caefc38463ebb48dd33",
+    "bottomId": "67ab0b16755a9402da00119b",
+    "locales": {
+      "en": {
+        "name": "BEAR Paladin (Ranger Green)",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_phoenix_arena_bp_02.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "side": [
+      "Bear"
+    ],
+    "suiteId": "c4df0355003e430ea0758996",
+    "outfitId": "06b0602d2bfb476785fd239e",
+    "bottomId": "67ab0b27755a9402da00119d",
+    "locales": {
+      "en": {
+        "name": "BEAR Paladin (Tactical Olive)",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_phoenix_arena_bp_03.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
   }
 ]
