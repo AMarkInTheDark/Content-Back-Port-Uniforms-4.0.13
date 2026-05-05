@@ -99,6 +99,18 @@
     {
       "key": "assets/content/hands/hands_arena_rusguard_8/hands_arena_rusguard_8_usec.skin.bundle",
       "dependencyKeys": ["cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/top_bear_hawaii_03.bundle",
+      "dependencyKeys": ["cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/pants_bear_shorts.bundle",
+      "dependencyKeys": ["cubemaps", "shaders"]
+    },
+    {
+      "key": "assets/content/hands/hands_bear_hawaii_03/hands_bear_hawaii_03.skin.bundle",
+      "dependencyKeys": ["cubemaps", "shaders"]
     }
   ]
 }
