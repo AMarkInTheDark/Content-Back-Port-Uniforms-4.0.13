@@ -111,7 +111,7 @@
     "handsId": "a20336bce2444e0298370cec",
     "locales": {
       "en": {
-        "name": "Champion JP upper",
+        "name": "Champion JP",
         "description": "Jacket"
       }
     },
@@ -137,7 +137,7 @@
     "bottomId": "74158ea01ae24a40882ad84a",
     "locales": {
       "en": {
-        "name": "Champion JP lower",
+        "name": "Champion JP",
         "description": "Combat pants"
       }
     },
