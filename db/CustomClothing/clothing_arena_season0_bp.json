@@ -219,6 +219,86 @@
     "side": [
       "Bear"
     ],
+    "suiteId": "9027b53b1b2543b4a9951402",
+    "outfitId": "98eb5e551a6d4c03aab0b3cf",
+    "topId": "67ab0ab4755a9402da001196",
+    "handsId": "67ac82b05f7251f49d0e9b11",
+    "locales": {
+      "en": {
+        "name": "BEAR Phoenix (Green)",
+        "description": "Flannel shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bear_phoenix_arena_bp_01.bundle",
+    "handsBundlePath": "assets/content/hands/hands_bear_phoenix/hands_bear_phoenix_arena_bp_01.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Usec",
+      "Bear"
+    ],
+    "suiteId": "64645332248b4cdca98b8b7a",
+    "outfitId": "35de74ff581b461c9216b14e",
+    "topId": "67af2d83af9667d8ea0d39ac",
+    "handsId": "67af2d9c551084dbef0f3178",
+    "locales": {
+      "en": {
+        "name": "Gladiator t-shirt",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_gladiator.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_gladiator/hands_arena_gladiator.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Usec",
+      "Bear"
+    ],
+    "suiteId": "452e563967ec4b1f83838d53",
+    "outfitId": "1aeb6551645c4606adf63a8f",
+    "topId": "685eb62fb5ac4e22ba0f20d1",
+    "handsId": "685eb657608d2e0f0704818f",
+    "locales": {
+      "en": {
+        "name": "Grenadier t-shirt",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_acs4.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_acs4/hands_acs4.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "side": [
+      "Bear"
+    ],
     "suiteId": "1cf764b449e3410d90c263fb",
     "outfitId": "baa4c42589cb4df981134653",
     "topId": "685d07f8c18489365003668c",
@@ -261,6 +341,78 @@
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
     "price": 820000,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "side": [
+      "Bear"
+    ],
+    "suiteId": "4f023e1f2b8e47d88665fa1b",
+    "outfitId": "a4e546cb3f504f4d861520c5",
+    "bottomId": "67ab0b06755a9402da001199",
+    "locales": {
+      "en": {
+        "name": "BEAR Paladin (Coyote)",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_phoenix_arena_bp_01.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "side": [
+      "Bear"
+    ],
+    "suiteId": "56756762b5f34984b17e17c9",
+    "outfitId": "e8914caefc38463ebb48dd33",
+    "bottomId": "67ab0b16755a9402da00119b",
+    "locales": {
+      "en": {
+        "name": "BEAR Paladin (Ranger Green)",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_phoenix_arena_bp_02.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "side": [
+      "Bear"
+    ],
+    "suiteId": "c4df0355003e430ea0758996",
+    "outfitId": "06b0602d2bfb476785fd239e",
+    "bottomId": "67ab0b27755a9402da00119d",
+    "locales": {
+      "en": {
+        "name": "BEAR Paladin (Tactical Olive)",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_phoenix_arena_bp_03.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
     "questRequirements": [],
     "achievementRequirements": []
   },
