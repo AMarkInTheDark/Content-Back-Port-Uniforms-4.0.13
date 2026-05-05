@@ -263,5 +263,77 @@
     "price": 820000,
     "questRequirements": [],
     "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "side": [
+      "Usec"
+    ],
+    "suiteId": "87ddfb03c7d14d1dbf037140",
+    "outfitId": "fa5aebb3436949b194fc9e73",
+    "bottomId": "67ab1543755a9402da0011a2",
+    "locales": {
+      "en": {
+        "name": "USEC K4 (Dark Olive)",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_usec_cereum_arena_bp_01.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "side": [
+      "Usec"
+    ],
+    "suiteId": "15ac0efc15ab48ac837415ce",
+    "outfitId": "d7292816a5c640789faa4502",
+    "bottomId": "67ab1556508ee9b6440e9c62",
+    "locales": {
+      "en": {
+        "name": "USEC K4 (Green)",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_usec_cereum_arena_bp_02.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "side": [
+      "Usec"
+    ],
+    "suiteId": "842749bcd3f84e92a4eaeae3",
+    "outfitId": "2a39c36c7daf490a903630d7",
+    "bottomId": "67ab1570fe82855dcc0f2aec",
+    "locales": {
+      "en": {
+        "name": "USEC K4 (Timber Brown)",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_usec_cereum_arena_bp_03.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
   }
 ]
