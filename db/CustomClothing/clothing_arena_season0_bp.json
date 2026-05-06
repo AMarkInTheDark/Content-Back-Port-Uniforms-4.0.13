@@ -205,7 +205,7 @@
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_usec_carinthia_softshell_arena_bp_01.bundle",
     "handsBundlePath": "assets/content/hands/hands_usec_carinthia_softshell/hands_usec_carinthia_softshell_arena_bp_01.skin.bundle",
-    "traderId": "5ac3b934156ae10c4430e83c",
+    "traderId": "6617beeaa9cfa777ca915b7c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
     "standing": 0,
@@ -231,7 +231,7 @@
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_bear_phoenix_arena_bp_01.bundle",
     "handsBundlePath": "assets/content/hands/hands_bear_phoenix/hands_bear_phoenix_arena_bp_01.skin.bundle",
-    "traderId": "5ac3b934156ae10c4430e83c",
+    "traderId": "6617beeaa9cfa777ca915b7c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
     "standing": 0,
@@ -359,7 +359,7 @@
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_phoenix_arena_bp_01.bundle",
-    "traderId": "5ac3b934156ae10c4430e83c",
+    "traderId": "6617beeaa9cfa777ca915b7c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
     "standing": 0,
@@ -383,7 +383,7 @@
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_phoenix_arena_bp_02.bundle",
-    "traderId": "5ac3b934156ae10c4430e83c",
+    "traderId": "6617beeaa9cfa777ca915b7c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
     "standing": 0,
@@ -407,7 +407,7 @@
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_phoenix_arena_bp_03.bundle",
-    "traderId": "5ac3b934156ae10c4430e83c",
+    "traderId": "6617beeaa9cfa777ca915b7c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
     "standing": 0,
@@ -431,7 +431,7 @@
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_usec_cereum_arena_bp_01.bundle",
-    "traderId": "5ac3b934156ae10c4430e83c",
+    "traderId": "6617beeaa9cfa777ca915b7c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
     "standing": 0,
@@ -455,7 +455,7 @@
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_usec_cereum_arena_bp_02.bundle",
-    "traderId": "5ac3b934156ae10c4430e83c",
+    "traderId": "6617beeaa9cfa777ca915b7c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
     "standing": 0,
@@ -479,7 +479,7 @@
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_usec_cereum_arena_bp_03.bundle",
-    "traderId": "5ac3b934156ae10c4430e83c",
+    "traderId": "6617beeaa9cfa777ca915b7c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
     "standing": 0,
